@@ -1,23 +1,22 @@
-# 👋 Hi, I'm [민기]!
+# 👋 Hi, I'm [MINGI]!
 
+"A motivated beginner, eager to learn and grow."
 <br>
 
 ## 🚀 About Me
 
 - 🔭 I’m currently interested in: **[]**
-- 🌱I’m currently learning: **[]**
-
-- 📫 How to reach me: **[]**
-
-<br>
+- 🌱I’m currently learning: **[MSA, Spring Cloud]**
+- 📫 How to reach me: **[lyg0527@naver.com]**
+  <br>
 
 ## 📌 Pinned Projects
 
 Here are a few highlights from my GitHub:
 
-| Project                                          | Description                 | Tech Stack                  |
-| ------------------------------------------------ | --------------------------- | --------------------------- |
-| [구스 ~~](https://github.com/BOKJUNSOO/seoul-de) | 서비스 데이터셋 구축 자동화 | Python, PostgreSQL, Airflow |
+| Project                                                    | Description | Tech Stack          |
+| ---------------------------------------------------------- | ----------- | ------------------- |
+| [Goose](https://github.com/DDu-DDu/project-goose-frontend) | 상태관리    | React/Redux-toolkit |
 
 ## 🧰 Tech Stack
 
@@ -35,6 +34,7 @@ Here are a few highlights from my GitHub:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 <br>
 
