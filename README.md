@@ -14,9 +14,10 @@
 
 Here are a few highlights from my GitHub:
 
-| Project                                                    | Description | Tech Stack          |
-| ---------------------------------------------------------- | ----------- | ------------------- |
-| [Goose](https://github.com/DDu-DDu/project-goose-frontend) | 상태관리    | React/Redux-toolkit |
+| Project                                                    | Description | Tech Stack                 |
+| ---------------------------------------------------------- | ----------- | -------------------------- |
+| [Goose](https://github.com/DDu-DDu/project-goose-frontend) | 상태관리    | React/Redux-toolkit        |
+| [Gorae](https://github.com/Project-Gorae-Team-1)           | 알림서비스  | Spring-Boot, Kafka, Docker |
 
 ## 🧰 Tech Stack
 
